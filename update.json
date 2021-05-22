@@ -1,0 +1,8 @@
+{
+   "packageManager": "github",
+   "name": "iguana-3d",
+   "repo": "iguana-3d/percepcar-menu-archives",
+   "files": {
+     "include": ["index.menu.js", "styles.menu.css"]
+   }
+ }
