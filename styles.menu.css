@@ -1,7 +1,6 @@
 .menu__slicker {
    grid-column: center-start / center-end;
-   padding-bottom: 25px;
-   /****Teste***/
+   padding-bottom: 20px;
 }
 
 /********* SLICKER PRIMARY *********/
