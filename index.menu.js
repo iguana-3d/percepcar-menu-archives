@@ -121,6 +121,7 @@ $(document).ready(function(){
       inlinePositioning: true,
       maxWidth: '1920px',
       theme: 'light',
+      placement: 'bottom',
    });
 
    contentSlicker.style.visibility = 'visible';
